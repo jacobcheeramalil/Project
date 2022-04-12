@@ -1,0 +1,52 @@
+body {
+
+    background-color:#F1F3DE;   
+}
+
+h1{
+    color:#180A0A;
+    font-size: 25px;
+}
+
+h3{
+    color: #890F0D;
+}
+
+hr{
+    background-color: white;
+    border-style: none;
+    height: 2px;
+    width: 50%;
+}
+
+#heading{
+    font-family: Helvetica,Verdana, Geneva;
+    font-size: 25px;
+}
+
+#subheading{
+   
+    font-family: Helvetica,Verdana, Geneva;
+    font-size: 25px;
+}
+
+#subheading2{
+
+    font-family: Helvetica,Verdana, Geneva;
+    font-size: 25px;
+
+}
+
+#sunheading2{
+
+    font-family: Helvetica,Verdana, Geneva;
+    font-size: 25px;
+}
+
+#indiviualheading{
+    font-family: Helvetica,Verdana, Geneva;
+    font-size: 25px; 
+}
+
+
+
